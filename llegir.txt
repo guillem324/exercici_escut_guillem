@@ -1,0 +1,5 @@
+Com que no anava bé de temps la part de l'escut amb HTML i css l'he fet amb chatgpt. Despres vaig fer les activitat guiant-me amb la pràctica que vas penjar al suro.
+document.queryselector(per agafar un element del html)
+document.createElement per crear un element des de js a html
+window.onload el que pasara quan es carregui la web (es com una mena de main on poses les funcions q vols passin )
+la funcio afegir element em funcionava correctament, despres vaig fer canvis al html y css y no em funcionava, vaig perdre molt rato intentanrt arreglar.ho i vaig veure al chat que era per window onload.
